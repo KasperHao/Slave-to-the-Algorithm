@@ -38,4 +38,11 @@ Even number - Female Group
 5 - 2mins 30s
 6 - 3mins
 
-6 - 5 - 4 - 4 - 6
+### Result: 6 - 5 - 4 - 4 - 6
+
+Eventually, I repost a dance cover of Blackpink's Kill this Love by EAST2WEST, a dance crew from Canada.
+
+![IMG_4127](https://user-images.githubusercontent.com/68723243/88900212-72b8e700-d292-11ea-8cc7-e542f7cf185f.PNG)
+
+### Summary
+I feel like the 'system' is actually good for those who has choice difficulties, and it would makes work to be complete effeciensive. 
