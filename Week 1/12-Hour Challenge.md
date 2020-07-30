@@ -43,6 +43,6 @@ Even number - Female Group
 Eventually, I repost a dance cover of Blackpink's Kill this Love by EAST2WEST, a dance crew from Canada.
 
 ![IMG_4127](https://user-images.githubusercontent.com/68723243/88900212-72b8e700-d292-11ea-8cc7-e542f7cf185f.PNG)
-
+#### [CR: @EAST2WEST] (https://www.youtube.com/watch?v=7Q7_8hirrPg)
 ### Summary
 I feel like the 'system' is actually good for those who has choice difficulties, and it would makes work to be complete effeciensive. 
