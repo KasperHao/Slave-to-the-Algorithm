@@ -38,4 +38,4 @@ Even number - Female Group
 5 - 2mins 30s
 6 - 3mins
 
-6 - 5 - 1 - 4 - 6
+6 - 5 - 4 - 4 - 6
