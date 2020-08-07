@@ -8,4 +8,6 @@ At first, I would like to thanks Karen for giving us an opportunity to get away 
 ![6251596765363_ pic_hd](https://user-images.githubusercontent.com/68723243/89635216-fce3f980-d8e9-11ea-93c9-261ca42693b2.jpg)
 
 For the drawing machine that I created, I use string to tie up one side of the marker, and use the clip to stable the other side on the curtain. With the open window, the string will move by the wind blow, and the marker will automatically move with the string.
-[Wind Drawing](https://www.youtube.com/watch?v=F9Yk8qNX9CU)
+
+#### [Wind Drawing](https://www.youtube.com/watch?v=F9Yk8qNX9CU)
+Click the link to check the wind drawing video.
