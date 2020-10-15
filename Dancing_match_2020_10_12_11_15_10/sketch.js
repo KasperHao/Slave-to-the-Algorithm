@@ -94,12 +94,9 @@ function drawSkeleton() {
       stroke(inp1.color());
       strokeWeight(10);
       line(partA.position.x, partA.position.y, partB.position.x, partB.position.y);
-     
-    }
-  
+      }
+   }
   }
-  
-}
 
 var button;
 
@@ -111,8 +108,6 @@ var touchSketch = function($){
         $.button.mousePressed(save);
         $.button.position(1230,840);
       }
-      
-      //change the color if clicked
       $.mousePressed = function(){
           if($.mouseX > 0 && $.mouseX < $.width && $.mouseY > 0 && $.mouseY < $.height){
             noloop();
@@ -120,11 +115,5 @@ var touchSketch = function($){
           }
       }
    }
-
-  
-
-
-  
-
-    var second_sketch = new p5(touchSketch, 'second-sketch-container');
+ var second_sketch = new p5(touchSketch, 'second-sketch-container');
 
